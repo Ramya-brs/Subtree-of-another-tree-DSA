@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    margin: 100px;
+
+
+}
+h2 {
+    margin-bottom : 10px;
+    color:chocolate;
+}
+h4 {
+    color:black;
+}
+h5 {
+    color:purple;
+    font-size: 20px;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px;
+    background-color:cornsilk;
+    border: 2px solid black;
+    color:#ccc;
+    font-weight: 1500;
+    font-size: 15px;
+}
+p {
+    color:#008CBA;
+    font-size: 22px;
+}
+
+input {
+    padding: 5px;
+    margin-right: 7px;
+    width: 25%;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;   
+}
+button:hover {
+    background-color: #008CBA; 
+    color: white; 
+  }
+
+
+
+label {
+    color:darkslategrey
+}
+#result {
+    color:darkslategrey
+}
